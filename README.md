@@ -2,8 +2,8 @@
 
 > Propuesta para resolver la curva de aprendizaje de Notion y mejorar su accesibilidad.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7li9U-wml4w/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qk-LT_YiAR8/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7li9U-wml4w/0.jpg)](https://www.youtube.com/watch?v=7li9U-wml4w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qk-LT_YiAR8/0.jpg)](https://www.youtube.com/watch?v=qk-LT_YiAR8)
 
 
 ## Descripción
